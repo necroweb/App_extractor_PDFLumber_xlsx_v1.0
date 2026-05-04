@@ -1,4 +1,4 @@
-# ==== EXTRACTOR_TABLAS_PDFLUMBER_EXCEL V.1.0 ==== 
+# = EXTRACTOR_TABLAS_PDFLUMBER_EXCEL V.1.0 = 
 **Lenguaje:** Python 3.11.9 (version estable recomendada)
 ---
 ## Autoría 
